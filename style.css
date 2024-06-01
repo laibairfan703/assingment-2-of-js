@@ -1,0 +1,39 @@
+
+    body {
+        background-color: rgb(245, 251, 126);
+    
+
+    }
+    
+    marquee {
+        color: rgb(8, 8, 8);
+        background-color: rgb(255, 6, 155);
+    }
+    
+    /* button */
+    button {
+        padding: 10px 16px;
+        margin: 10px;
+        margin-top: 50px;
+        margin-left: 50px;
+        background-image: radial-gradient(circle, rgb(248, 248, 30), rgb(253, 34, 165), rgba(131, 134, 131, 0.854));
+    }
+    
+    /* anchor tag */
+    a {
+        text-decoration: none;
+        color: black;
+    }
+    
+    /* center group */
+    .center-group {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 10px;
+        display: table-row-group;
+        
+    }
+    
+
+    
